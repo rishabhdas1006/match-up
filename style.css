@@ -16,6 +16,10 @@
   }
 }
 
+body{
+  font-family: 'Itim', cursive;
+}
+
 .icon-square {
   width: 3rem;
   height: 3rem;
